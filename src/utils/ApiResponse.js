@@ -7,6 +7,8 @@ class ApiResponse {
   }
 }
 
+export { ApiResponse };
+
 // // Create a standard API response structure class
 // class ApiResponse {
 //   // Constructor to initialize the response properties
